@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://oladosu500.github.io/csb-22updu/static/css/main.60b3068a.chunk.css",
+    "main.js": "https://oladosu500.github.io/csb-22updu/static/js/main.da12416c.chunk.js",
+    "main.js.map": "https://oladosu500.github.io/csb-22updu/static/js/main.da12416c.chunk.js.map",
+    "runtime-main.js": "https://oladosu500.github.io/csb-22updu/static/js/runtime-main.617f4a2e.js",
+    "runtime-main.js.map": "https://oladosu500.github.io/csb-22updu/static/js/runtime-main.617f4a2e.js.map",
+    "static/js/2.e0f6004f.chunk.js": "https://oladosu500.github.io/csb-22updu/static/js/2.e0f6004f.chunk.js",
+    "static/js/2.e0f6004f.chunk.js.map": "https://oladosu500.github.io/csb-22updu/static/js/2.e0f6004f.chunk.js.map",
+    "index.html": "https://oladosu500.github.io/csb-22updu/index.html",
+    "static/css/main.60b3068a.chunk.css.map": "https://oladosu500.github.io/csb-22updu/static/css/main.60b3068a.chunk.css.map",
+    "static/js/2.e0f6004f.chunk.js.LICENSE.txt": "https://oladosu500.github.io/csb-22updu/static/js/2.e0f6004f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.617f4a2e.js",
+    "static/js/2.e0f6004f.chunk.js",
+    "static/css/main.60b3068a.chunk.css",
+    "static/js/main.da12416c.chunk.js"
+  ]
+}
